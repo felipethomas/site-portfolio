@@ -60,6 +60,7 @@
 	<script type="text/javascript" src="js/jquery.touchSwipe.js"></script>
 	<script type="text/javascript" src="js/jquery.hotkeys.min.js"></script>
 	<script type="text/javascript" src="js/functions.min.js?v=2"></script>
+	<script type="text/javascript" src="js/customizacao.js"></script>
 
 </body>
 </html>

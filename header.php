@@ -46,20 +46,20 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</a>
-					<a class="brand" href="index.html">
+					<a class="brand" href="index.php">
 						<b>Your</b>Site
 					</a>
 					<div class="nav-collapse">
 						<ul class="nav">
-							<li class="active"><a href="index.html">Home</a></li>
-							<li><a href="work.html">Our work</a></li>
-							<li><a href="about.html">About us</a></li>
-							<li><a href="plans.html">Pricing</a></li>
-							<li><a href="explore.html">Explore</a></li>
-							<li><a href="faq.html">FAQ</a></li>
-							<li><a href="alt.html">Alt</a></li>
-							<li><a href="blog.html">Blog</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li class="active"><a href="index.php">Home</a></li>
+							<li><a href="work.php">Our work</a></li>
+							<li><a href="about.php">About us</a></li>
+							<li><a href="plans.php">Pricing</a></li>
+							<li><a href="explore.php">Explore</a></li>
+							<li><a href="faq.php">FAQ</a></li>
+							<li><a href="alt.php">Alt</a></li>
+							<li><a href="blog.php">Blog</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 						
 					</div><!--/.nav-collapse -->

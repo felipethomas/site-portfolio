@@ -1,4 +1,6 @@
 	<?php require_once('header.php'); ?>
+	<div id="id-menu">menu7</div>
+	
 	</div>
 
 	<!-- Carousel -->	

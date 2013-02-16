@@ -1,4 +1,6 @@
-	<?php require_once('header.php'); ?>		
+	<?php require_once('header.php'); ?>
+	<div id="id-menu">menu2</div>
+			
 	<div class="hero-unit">
 		<div class="ac">
 			<h1>Meet the best of our work!</h1>

@@ -1,37 +1,28 @@
-/*(function() {
-	
-	
+/**
+ * Created by: http://gustavopaes.net
+ * Created on: Nov/2009
+ * 
+ * Retorna os valores de parâmetros passados via url.
+ *
+ * @param String Nome da parâmetro.
+ */
+/*function _GET(name)
+{
+  var url   = window.location.search.replace("?", "");
+  var itens = url.split("&");
 
-	menu_de_navegacao.on('click', function (e) {
-		//alert(menu_de_navegacao.toSource())
-	    //e.addClass('active');
-		//e.find('.active')
-		menu_de_navegacao;
-	});	
+  for(n in itens)
+  {
+    if( itens[n].match(name) )
+    {
+      return decodeURIComponent(itens[n].replace(name+"=", ""));
+    }
+  }
+  return null;
+};*/
 
-})();*/
-
-// When DOM is fully loaded
-//jQuery(document).ready(function($) {
-	//$('div.nav-collapse').find('ul').find('li').removeClass('active');
+(function() {
+	var menu = document.getElementById("id-menu").innerHTML; //_GET("menu");
 	
-	//$('#navbar').load(function() {
-		//$('div.nav-collapse').find('ul').find('li').on('click', function (e) {
-			//$(this).addClass('active');
-		//});
-		
-		//alert('terminou');
-		
-		/*menu_de_navegacao.on('click', function (e) {
-			menu_de_navegacao.each(function(index) {
-				if(menu_de_navegacao.has('.active')) {
-					alert(index + ' sim');
-				} else {
-					alert(index + 'nao');
-				}
-			}); 
-		});*/
-		
-		//$('div.nav-collapse').find('ul').find('li').addClass('active');
-	//})
-//})
+	$('#'+menu).addClass('active');
+})();

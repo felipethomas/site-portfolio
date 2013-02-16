@@ -18,6 +18,8 @@
 	<!--[if IE 7]>
 		<link href="css/font-awesome/font-awesome-ie7.css" rel="stylesheet">
 	<![endif]-->
+	
+	<link href="css/style.adicional.css" rel="stylesheet">
 
 	<!-- Load Open sans from Google Font Directory -->
 	<link href='https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800' rel='stylesheet' type='text/css'>
@@ -51,15 +53,15 @@
 					</a>
 					<div class="nav-collapse">
 						<ul class="nav">
-							<li class="active"><a href="index.php">Home</a></li>
-							<li><a href="work.php">Our work</a></li>
-							<li><a href="about.php">About us</a></li>
-							<li><a href="plans.php">Pricing</a></li>
-							<li><a href="explore.php">Explore</a></li>
-							<li><a href="faq.php">FAQ</a></li>
-							<li><a href="alt.php">Alt</a></li>
-							<li><a href="blog.php">Blog</a></li>
-							<li><a href="contact.php">Contact</a></li>
+							<li id="menu1"><a href="index.php">Home</a></li>
+							<li id="menu2"><a href="work.php">Our work</a></li>
+							<li id="menu3"><a href="about.php">About us</a></li>
+							<li id="menu4"><a href="plans.php">Pricing</a></li>
+							<li id="menu5"><a href="explore.php">Explore</a></li>
+							<li id="menu6"><a href="faq.php">FAQ</a></li>
+							<li id="menu7"><a href="alt.php">Alt</a></li>
+							<li id="menu8"><a href="blog.php">Blog</a></li>
+							<li id="menu9"><a href="contact.php">Contact</a></li>
 						</ul>
 						
 					</div><!--/.nav-collapse -->

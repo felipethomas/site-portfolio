@@ -1,4 +1,6 @@
 	<?php require_once('header.php'); ?>	
+	<div id="id-menu">menu3</div>
+	
 	<div class="hero-unit">
 		<div class="ac">
 			<h1>Meet our team or <a href="contact.php">visit us</a>.</h1>

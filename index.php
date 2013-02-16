@@ -1,4 +1,5 @@
 	<?php require_once('header.php'); ?>
+	<div id="id-menu">menu1</div>
 	</div>
 	
 	<div class="homepage">

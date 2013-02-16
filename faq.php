@@ -1,4 +1,6 @@
 	<?php require_once('header.php'); ?>
+	<div id="id-menu">menu6</div>
+	
 	<div class="hero-unit faq">
 		<div class="ac">
 			<h1>FAQ</h1>

@@ -1,4 +1,6 @@
 	<?php require_once('header.php'); ?>
+	<div id="id-menu">menu8</div>
+	
 	<div class="hero-unit">
 		<h1>Blog</h1>
 		<p>Cupcake ipsum dolor sit amet wafer gummi bears pudding applicake. </p>

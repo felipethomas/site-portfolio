@@ -7,10 +7,11 @@
 	<div class="container">
 	<div class="hero-unit">
 
-		<!-- headin gtext -->
+		<!-- headin gtext
 		<p class="ac">
 			This is a template for a simple marketing or informational website. 
 		</p>
+		-->
 
 		<!-- Carousel -->	
 		<div id="macbook_carousel">

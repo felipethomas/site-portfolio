@@ -5,10 +5,10 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html class="not-ie" lang="en"> <!--<![endif]-->
 <head>
 	<meta charset="utf-8">
-	<title>Landing page template for your project</title>
+	<title>Portf&oacute;lio Felipe Thomas</title>
 	
 	<meta name="description" content="Page description">
-	<meta name="author" content="Your name">
+	<meta name="author" content="Felipe Thomas">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<!-- Custom css -->
@@ -49,19 +49,19 @@
 						<span class="icon-bar"></span>
 					</a>
 					<a class="brand" href="index.php">
-						<b>Your</b>Site
+						<b>Felipe</b>Thomas
 					</a>
 					<div class="nav-collapse">
 						<ul class="nav">
 							<li id="menu1"><a href="index.php">Home</a></li>
-							<li id="menu2"><a href="work.php">Our work</a></li>
-							<li id="menu3"><a href="about.php">About us</a></li>
-							<li id="menu4"><a href="plans.php">Pricing</a></li>
-							<li id="menu5"><a href="explore.php">Explore</a></li>
-							<li id="menu6"><a href="faq.php">FAQ</a></li>
-							<li id="menu7"><a href="alt.php">Alt</a></li>
+							<li id="menu2"><a href="work.php">Projetos</a></li>
+							<li id="menu3"><a href="about.php">Sobre</a></li>
+							<!-- li id="menu4"><a href="plans.php">Pricing</a></li -->
+							<li id="menu5"><a href="explore.php">Experi&ecirc;ncias</a></li>
+							<li id="menu6"><a href="faq.php">Curriculum</a></li>
+							<!-- li id="menu7"><a href="alt.php">Alt</a></li -->
 							<li id="menu8"><a href="blog.php">Blog</a></li>
-							<li id="menu9"><a href="contact.php">Contact</a></li>
+							<li id="menu9"><a href="contact.php">Contato</a></li>
 						</ul>
 						
 					</div><!--/.nav-collapse -->

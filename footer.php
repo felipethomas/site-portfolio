@@ -2,14 +2,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="span4">
-					<h3>YourSite</h3>
+					<h3>FelipeThomas</h3>
 					<ul>
-						<li><a href="#" title="">Home</a></li>
-						<li><a href="#" title="">Our work</a></li>
-						<li><a href="#" title="">About us</a></li>
-						<li><a href="#" title="">Pricing</a></li>
-						<li><a href="#" title="">Explore</a></li>
-						<li><a href="#" title="">Contact</a></li>
+						<li id="menu1"><a href="index.php">Home</a></li>
+						<li id="menu2"><a href="work.php">Projetos</a></li>
+						<li id="menu3"><a href="about.php">Sobre</a></li>
+						<li id="menu5"><a href="explore.php">Experi&ecirc;ncias</a></li>
+						<li id="menu6"><a href="faq.php">Curriculum</a></li>
+						<li id="menu9"><a href="contact.php">Contato</a></li>
 					</ul>
 				</div>
 				<div class="span4 social-networks">

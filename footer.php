@@ -13,13 +13,13 @@
 					</ul>
 				</div>
 				<div class="span4 social-networks">
-					<h3>Stay in touch</h3>
-					<p>Stay in touch on social networks</p>
-					<a href="#" title="Follow us on Facebook" class="icon-facebook"></a>
-					<a href="#" title="Follow us on Twitter" class="icon-twitter"></a>
-					<a href="#" title="Follow us on Google Plus" class="icon-google-plus"></a>
-					<a href="#" title="Follow us on Google Plus" class="icon-github"></a>
-					<a href="#" title="Follow us on Google Plus" class="icon-pinterest"></a>
+					<h3>Encontre.me</h3>
+					<p>Encontre-me tamb&eacute;m nas redes sociais</p>
+					<a href="https://www.facebook.com/felipe.thomas.33" title="Siga-me no Facebook" class="icon-facebook" target="_blank"></a>
+					<a href="https://twitter.com/felipethomasbr" title="Siga-me no Twitter" class="icon-twitter" target="_blank"></a>
+					<a href="https://plus.google.com/118253523847540149360" title="Siga-me no Google Plus" class="icon-google-plus" target="_blank"></a>
+					<a href="https://github.com/felipethomas" title="Siga-me no github" class="icon-github" target="_blank"></a>
+					<a href="https://www.linkedin.com/in/felipethomascv" title="Follow us on Google Plus" class="icon-linkedin" target="_blank"></a>
 				</div>
 				<div class="span4">
 					<h3>Newsletter</h3>
@@ -36,15 +36,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="span4">
-						&copy; 2010—2012 Your company
+						&copy; 1984—2013 Felipe Thomas
 					</div>
 					<div class="span4">
 						<i class="icon-phone"></i> &nbsp; 
-						00123 320 000 123 456
+						55 85 0000 0000
 					</div>
 					<div class="span4">
 						<i class="icon-envelope"></i> &nbsp; 
-						hello@yourcomapny.com
+						felipecejug@gmail.com
 					</div>
 				</div> <!-- end .row -->		
 			</div> <!-- end .container -->		

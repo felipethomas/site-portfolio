@@ -22,7 +22,7 @@
 };*/
 
 (function() {
-	var menu = document.getElementById("id-menu").innerHTML; //_GET("menu");
+	var menu = document.getElementById("id-menu").innerHTML;
 	
 	$('#'+menu).addClass('active');
 })();

@@ -15,6 +15,37 @@
 
 		<!-- posts -->
 		<div class="span8"> 
+		
+			<!-- Trim no codigo de barras
+			================================================== -->
+			<article class="post image-post">
+
+				<!-- entry media -->
+				<a href="blog-codigodebarras.php" class="entry-media">
+					<img src="assets/12.gif" alt="" />
+				</a>
+
+				<!-- entry body -->
+				<div class="entry-body">
+					<a href="blog-codigodebarras.php">
+						<h2 class="entry-title">
+							Limpador de c&oacute;digo de barras
+						</h2>
+					</a>
+					<p>Voc&ecirc; vai pagar uma conta via internet banking e tem que ficar tirando aqueles pontos e espa&ccedil;os em branco do c&oacute;digo de barras? O limpador de c&oacute;digo de barras pode ajudar voc&ecirc;. </p>
+				</div>
+
+				<!-- entry meta -->
+				<div class="entry-meta">
+					<span class="entry-type"></span>
+					<span class="entry-date">11 de Nov de 2013</span>
+					<span class="entry-comments"> 0 comments</span>
+				</div>
+
+				<!-- clearfix -->
+				<div class="clr"></div>
+
+			</article><!-- end item -->
 
 			<!-- Example of image blog item
 			================================================== -->

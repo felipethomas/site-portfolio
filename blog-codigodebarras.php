@@ -39,15 +39,15 @@
 				<div class="entry-content">
 					<p>Voc&ecirc; vai pagar uma conta via internet banking e tem que ficar tirando aqueles pontos e espa&ccedil;os em branco do c&oacute;digo de barras? O limpador de c&oacute;digo de barras pode ajudar voc&ecirc;. </p>
 					<label>C&oacute;digo de Barras</label>
+					
 					<div class="input-append">
 						<input id="cbOriginal" class="input-xxlarge" type="text" name placeholder="Original" />
 						<button id="go" class="btn" type="button">Limpar</button>
 					</div>
-					<div class="input-append">
-						<input id="cbLivre" class="input-xxlarge" type="text" name placeholder="Livre de Caracteres" />
-						<button id="limpar" class="btn" type="button">Copiar</button>
-					</div>
-					<blockquote>Este utilitário está disponível para ser usado por qualquer interessado que desejar, sendo, porém, de sua inteira responsabilidade danos ou prejuízos de qualquer natureza devidos à ocorrência de eventuais falhas; </blockquote>
+					
+					<input id="cbLivre" class="input-xxlarge" type="text" name placeholder="Livre de Caracteres" />
+					
+					<p><blockquote>Este utilitário está disponível para ser usado por qualquer interessado que desejar, sendo, porém, de sua inteira responsabilidade danos ou prejuízos de qualquer natureza devidos à ocorrência de eventuais falhas; </blockquote></p>
 					<p><a href="#" title=""><i>Author</i></a></p>
 				</div>
 

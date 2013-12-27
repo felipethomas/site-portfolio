@@ -10,5 +10,6 @@
 		var limpo = original.replace(/[. -]/g, '');
 		
 		document.getElementById('cbLivre').value = limpo;
+                document.getElementById('cbLivre').select();
 	};
 })();
